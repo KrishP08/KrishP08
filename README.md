@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krish Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **web base EMI management system**
+- 🔭 I’m currently working on **web base Online Smart Class**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Python and Java**
 
-- 💬 Ask me about **HTML and CSS**
-
-- 📫 How to reach me **yaxpatel6300@gmail.com**
+- 📫 How to reach me **7233kp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
