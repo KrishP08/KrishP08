@@ -18,5 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishp08&show_icons=true&locale=en" alt="krishp08" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishp08&show_icons=true&locale=en&layout=compact" alt="KrishP08" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishp08&label=Profile%20views&color=0e75b6&style=flat" alt="KrishP08" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishp08" alt="KrishP08" /></a> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=krishp08&bg_color=ffffff&color=000000&line=007ACC&point=24292e&area=true&hide_border=true" alt="KrishP08" /> </p>
