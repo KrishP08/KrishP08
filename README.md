@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web base Online Smart Class**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 📫 How to reach me **7233kp@gmail.com**
 
