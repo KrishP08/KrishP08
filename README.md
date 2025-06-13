@@ -97,7 +97,7 @@ An AI-powered virtual keyboard and mouse using hand gestures. Designed for touch
 ### Air Mouse with ESP32
 Created a wireless air mouse using an ESP32 microcontroller and sensor inputs, turning physical movement into mouse control. *Built using Arduino IDE and ESP32 libraries.*
 
-<-- Use a format similar to this for each project:
+<!--  Use a format similar to this for each project:
 
 ```markdown
 ### [Project Name](Link to Project Repository or Live Demo)
@@ -107,18 +107,18 @@ Brief description of the project, what it does, its purpose, and the key technol
 **Example:**
 
 ### [Awesome Portfolio Website](https://example.com)
-A personal portfolio website to showcase my skills and projects. *Built with Next.js, Tailwind CSS, and deployed on Vercel.* -->
+A personal portfolio website to showcase my skills and projects. *Built with Next.js, Tailwind CSS, and deployed on Vercel.*  -->
 
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-patel-8b6137329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KrishP0809?t=f3clLyq4Qo4Jk9RVW-tdVw&s=09)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krish_7233?igsh=MWE4dGF3ajB4cWwx)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white)](In Working)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7233kp@gmail.com)
 <!-- You can add other platforms like Dev.to, etc. -->
 
-## 😄 Some Fun Fact
+## 😄 Some Fun Fact about me
 
 My code worked on the first try... even though it had errors. I'm still confused. 😅  
 
@@ -131,8 +131,6 @@ I once spent 4 hours fixing a bug... that was caused by a missing semicolon. �
 My favorite programming language is whichever one I’m using without bugs today 
 
 My ESP32 project worked on the first try... and I still don't trust it. 😅
-
-I once turned an ESP32 into a working air mouse—coding meets magic! 🪄  
 
 I talk to my code like it can hear me—and sometimes it listens.
 
