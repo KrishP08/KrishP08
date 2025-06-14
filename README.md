@@ -97,9 +97,9 @@ Created a wireless air mouse using an ESP32 microcontroller and sensor inputs, t
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishP08&theme=github_dark" alt="KrishP08's GitHub Stats"/>
-  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishP08&theme=github_dark&langs_count=6&show_icons=true" alt="KrishP08's Top Languages"/>
-  <br/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrishP08&theme=github_dark" alt="KrishP08's Most Commit Language"/>
 </p>
 <!--  Use a format similar to this for each project:
