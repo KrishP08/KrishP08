@@ -93,6 +93,15 @@ An AI-powered virtual keyboard and mouse using hand gestures. Designed for touch
 ### Air Mouse with ESP32
 Created a wireless air mouse using an ESP32 microcontroller and sensor inputs, turning physical movement into mouse control. *Built using Arduino IDE and ESP32 libraries.*
 
+## 📊 My GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishP08&theme=github_dark" alt="KrishP08's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishP08&theme=github_dark&langs_count=6&show_icons=true" alt="KrishP08's Top Languages"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrishP08&theme=github_dark" alt="KrishP08's Most Commit Language"/>
+</p>
 <!--  Use a format similar to this for each project:
 
 ```markdown
