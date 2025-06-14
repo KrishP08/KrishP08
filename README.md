@@ -84,10 +84,6 @@
 
 ## 🚀 My Projects
 
-Here's where you can showcase some of your work. For each project, try to include a link and a brief description.
-
-## 🚀 My Projects
-
 ### [Online Student Companion (OSC)](https://github.com/KrishP08/OSC_php)
 A PHP-based academic assistant platform for students to access notes, assignments, and resources in one place. *Built with PHP, MySQL, and Bootstrap.*
 
