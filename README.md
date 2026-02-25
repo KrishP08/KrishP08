@@ -71,7 +71,22 @@
       <sub><b>Arduino</b></sub>
     </td>
     <td align="center">
-      <!-- Empty cell or another skill if one comes up -->
+      <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /><br>
+      <sub><b>Fusion 360</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /><br>
+      <sub><b>KiCad</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="draw.io" /><br>
+      <sub><b>draw.io</b></sub>
     </td>
   </tr>
 </table>
@@ -130,12 +145,3 @@ My code worked on the first try... even though it had errors. I'm still confused
 Sometimes my code runs, not because it’s correct, but because the computer gives up. 🖥️😵‍💫  
 
 One time my code suddenly worked… I touched nothing. Tried to improve it—*now it’s broken again.* My new rule: **If it works, don’t touch it.** 🧑‍💻🔥
-
-I once spent 4 hours fixing a bug... that was caused by a missing semicolon. 🙃
-
-My favorite programming language is whichever one I’m using without bugs today 
-
-My ESP32 project worked on the first try... and I still don't trust it. 😅
-
-I talk to my code like it can hear me—and sometimes it listens.
-
