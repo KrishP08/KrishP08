@@ -15,8 +15,8 @@
       <sub><b>TypeScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br>
-      <sub><b>React</b></sub>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
     </td>
   </tr>
   <tr>
@@ -81,12 +81,10 @@
       <sub><b>KiCad</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="draw.io" /><br>
       <sub><b>draw.io</b></sub>
+    </td>
+     <td align="center">
     </td>
   </tr>
 </table>
