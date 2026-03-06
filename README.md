@@ -1,8 +1,4 @@
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KrishP08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Krish+Patel+%F0%9F%91%8B;CSE+Student+%7C+Cyber+Security;Embedded+Systems+%26+Robotics;Full-Stack+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
