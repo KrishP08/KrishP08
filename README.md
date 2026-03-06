@@ -4,11 +4,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Krish+Patel+%F0%9F%91%8B;Full+Stack+Developer;Hardware+%26+Robotics+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Krish+Patel+%F0%9F%91%8B;CSE+Student+%7C+Cyber+Security;Embedded+Systems+%26+Robotics;Full-Stack+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>Full-stack developer with a deep passion for crafting elegant and efficient solutions that tackle real-world challenges — from web apps to robotics. Always excited to dive into new technologies and expand my skillset.</em>
+  <em>I am a 2nd Year Computer Science Engineering student specializing in Cyber Security with strong hands-on experience in embedded systems, encryption algorithms, and full-stack web development.</em>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 - 🌱 **Currently learning:** React and TypeScript
 - 🏆 **Achievement:** Won **1st Prize** at GUNI SciTech Fest-2025 for an Obstacle-Avoiding Fire Extinguisher Car
 - 💬 **Ask me about:** Python, Android, hardware projects, and web development
-- 🎓 **Education:** Diploma in Information Technology — Ganpat University (2022–2025)
+- 🎓 **Education:** 2nd Year CSE — Cyber Security Specialization, Ganpat University
 
 ---
 
@@ -166,20 +166,20 @@
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Trophies -->
+<!-- Profile Details (full width) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishP08&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishP08&theme=github_dark" alt="Profile Details" width="98%" />
 </p>
 
-<!-- Streak Stats -->
+<!-- 2x2 grid of stats cards -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishP08&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishP08&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishP08&theme=github_dark" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrishP08&theme=github_dark" alt="Repos per Language" width="49%" />
 </p>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishP08&theme=github-compact&hide_border=true&area=true&area_color=58A6FF" alt="Activity Graph" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrishP08&theme=github_dark" alt="Most Commit Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KrishP08&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
 </p>
 
 <!-- Contribution Snake -->
@@ -203,8 +203,8 @@
   </tr>
   <tr>
     <td>🎓</td>
-    <td><strong>Diploma in Information Technology</strong></td>
-    <td>Ganpat University (2022–2025) — Web development, programming, and database management</td>
+    <td><strong>2nd Year CSE — Cyber Security Specialization</strong></td>
+    <td>Computer Science Engineering student specializing in Cyber Security at Ganpat University</td>
   </tr>
   <tr>
     <td>💼</td>
