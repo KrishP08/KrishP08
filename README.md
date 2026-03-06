@@ -162,28 +162,15 @@
 
 ## 📊 GitHub Stats
 
-<!-- Profile Details (full width) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KrishP08&theme=github_dark" alt="Profile Details" width="98%" />
 </p>
 
-<!-- 2x2 grid of stats cards -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KrishP08&theme=github_dark" alt="Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KrishP08&theme=github_dark" alt="Repos per Language" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KrishP08&theme=github_dark" alt="Most Commit Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KrishP08&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
-</p>
-
-<!-- Contribution Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishP08/KrishP08/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishP08/KrishP08/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/KrishP08/KrishP08/output/github-snake-dark.svg" width="98%" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/KrishP08/KrishP08/output/github-snake-dark.svg" width="98%" />
   </picture>
 </p>
 
@@ -202,11 +189,7 @@
     <td><strong>2nd Year CSE — Cyber Security Specialization</strong></td>
     <td>Computer Science Engineering student specializing in Cyber Security at Ganpat University</td>
   </tr>
-  <tr>
-    <td>💼</td>
-    <td><strong>Freelance Web Developer</strong></td>
-    <td>Created websites for businesses and individuals, focused on responsive design and UX (2024–2025)</td>
-  </tr>
+  
 </table>
 
 ---
